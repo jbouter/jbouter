@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm a consultant at [Warpnet B.V.](https://warpnet.nl) with over nine years of **SRE** and **DevOps** experience.
+- 🔭 I'm a consultant at [Warpnet B.V.](https://warpnet.nl) with over ten years of **SRE** and **DevOps** experience.
 - ☁️ I work with on-premise cloud solutions such as [Openshift](https://github.com/openshift) and [VMware](https://github.com/vmware), but use [libvirt](https://gitlab.com/libvirt/libvirt) and [Proxmox](https://proxmox.com/en/) as well.
 - 📈 I help companies set up their monitoring using [Prometheus](https://github.com/prometheus/prometheus), [Grafana](https://github.com/grafana/grafana), and [Alertmanager](https://github.com/prometheus/alertmanager).
 - 🌱 I'm a Linux geek with a broad interest, ranging from [ZFS](https://github.com/openzfs/zfs) to [Pipewire](https://github.com/PipeWire).
