@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Note: Even though I have both a [GitLab](https://gitlab.com/jbouter) and [GitHub](https://github.com/jbouter) profile, my repositories are on [Codeberg](https://codeberg.org/jbouter)
+
 - 🔭 I'm a consultant at [Warpnet B.V.](https://warpnet.nl) with over ten years of **SRE** and **DevOps** experience.
 - ☁️ I work with on-premise cloud solutions such as [Openshift](https://github.com/openshift), [Rancher](https://www.rancher.com/) and [VMware](https://github.com/vmware), but use [libvirt](https://gitlab.com/libvirt/libvirt) and [Proxmox](https://proxmox.com/en/) as well.
 - 📈 I help companies set up their monitoring using [Prometheus](https://github.com/prometheus/prometheus), [Grafana](https://github.com/grafana/grafana), and [Alertmanager](https://github.com/prometheus/alertmanager).
