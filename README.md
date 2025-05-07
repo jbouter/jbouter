@@ -9,4 +9,4 @@ Note: Even though I have both a [GitLab](https://gitlab.com/jbouter) and [GitHub
 - 🚀 I love to automate. Whether that is using [SaltStack](https://github.com/saltstack/salt), [Ansible](https://github.com/ansible/ansible), [GitLab CI](https://docs.gitlab.com/ee/ci/) or [GitHub Actions](https://github.com/features/actions).
 - 🐸 I use [KDE](https://kde.org/), but it doesn't really matter to me if that's on [ArchLinux](https://archlinux.org/), [Debian](https://www.debian.org/), [Fedora](https://getfedora.org/), [OpenSUSE](https://www..opensuse.org/) or [Ubuntu](https://ubuntu.com/).
 - 🎸 I have a very broad taste in music, and play bass guitar. I play around with [Harrison Mixbus](https://harrisonconsoles.com/product/mixbus/) a lot in my friend's music studio.
-- 💬 Find me on <a rel="me" href="https://fosstodon.org/@jbouter">Mastodon</a>
+- 💬 Find me on <a rel="me" href="https://infosec.exchange/@jbouter">Mastodon</a>
